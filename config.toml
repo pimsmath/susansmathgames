@@ -40,3 +40,16 @@ enableRobotsTXT = true
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 4 
 
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = 100
+
+  [[menu.main]]
+    name = "for teachers"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/for-teachers/"
+    weight = -90
