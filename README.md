@@ -1,7 +1,7 @@
 # Susan's Math Games
 
 Welcome to Susan's Math Games. This repository contains a static version of
-the (susansmathgames.ca) website built with the [hugo](https://gohugo.io). The
+the [susansmathgames.ca](https://susansmathgames.ca) website built with the [hugo](https://gohugo.io). The
 intention is that this site will soon replace the existing wordpress
 installation and provide all of the same content.
 
