@@ -1,7 +1,7 @@
 # Susan's Math Games
 
 Welcome to Susan's Math Games. This repository contains a static version of
-the susansmathgames.ca website built with the [hugo](https://gohugo.io). The
+the (susansmathgames.ca) website built with the [hugo](https://gohugo.io). The
 intention is that this site will soon replace the existing wordpress
 installation and provide all of the same content.
 
@@ -10,7 +10,7 @@ installation and provide all of the same content.
 The content of the website is (almost) pure markdown so it should build with
 most versions of Hugo, but we recommend something above v0.64.0 (currently we
 are using v0.80.0). This branch uses the
-[anake](https://themes.gohugo.io/gohugo-theme-ananke) which has been installed
+[anake theme](https://themes.gohugo.io/gohugo-theme-ananke) which has been installed
 as a hugo module. 
 
 ### Clone and Build/Deploy
