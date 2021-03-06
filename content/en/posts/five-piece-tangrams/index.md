@@ -1,9 +1,9 @@
 ---
 title: Five-piece tangrams
 author: Susan Milner
-type: page
 date: 2019-05-25T23:47:24+00:00
-featured_image: "/wp-content/uploads/2019/05/5-piece-tangrams-set-278x300.jpg"
+tags: ["games"]
+featured_image: "posts/five-piece-tangrams/images/5-piece-tangrams-set.jpg"
 ---
 These puzzles are very popular with students from kindergarten through grade 3. Having only five pieces instead of the classic seven makes them much less intimidating for many people. Students who enjoy these puzzles may be encouraged to try the classic tangrams.
 
