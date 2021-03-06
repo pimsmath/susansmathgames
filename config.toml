@@ -22,7 +22,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "/images/logo.png"
+  site_logo = "images/logo.png"
   description = "Encouraging the development of mathematical thinking through play&#8230;"
   facebook = ""
   twitter = ""
