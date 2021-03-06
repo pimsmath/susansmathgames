@@ -9,9 +9,11 @@ installation and provide all of the same content.
 
 The content of the website is (almost) pure markdown so it should build with
 most versions of Hugo, but we recommend something above v0.64.0 (currently we
-are using v0.80.0). This branch uses the
+are using v0.81.0). This branch uses the
 [anake theme](https://themes.gohugo.io/gohugo-theme-ananke) which has been installed
 as a hugo module. 
+
+When the site is ready for review this will be done automatically.
 
 ### Clone and Build/Deploy
 To deploy a copy of this site first clone this repository then initialize the
