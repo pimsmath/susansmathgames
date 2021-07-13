@@ -1,5 +1,5 @@
 title = "Susan's Math Games"
-baseURL = "https://pimsmath.github.io/susansmathgames/"
+#baseURL = "https://pimsmath.github.io/susansmathgames/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
@@ -21,8 +21,9 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  custom_css = ["css/local.css"]
   favicon = ""
-  site_logo = "images/logo.png"
+  site_logo = "/images/logo.png"
   description = "Encouraging the development of mathematical thinking through play&#8230;"
   facebook = ""
   twitter = ""
@@ -43,13 +44,19 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "about"
+    name = "About"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about/"
     weight = 100
 
   [[menu.main]]
-    name = "for teachers"
+    name = "For teachers"
     pre = "<i class='fa fa-road'></i>"
     url = "/for-teachers/"
     weight = -90
+  
+  [[menu.main]]
+    name = "Other resources"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/other-resources/"
+    weight = -80
