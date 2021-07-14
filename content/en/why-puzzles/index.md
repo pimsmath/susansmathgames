@@ -4,7 +4,6 @@ date: 2021-07-13T15:41:15-07:00
 draft: false
 ---
 
-## Why puzzles?
 > _Do not keep children to their studies by compulsion but by play_  – Plato
 
 If your goal is to develop mathematical skills or help others develop them,
