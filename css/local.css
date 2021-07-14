@@ -18,3 +18,11 @@
 .nojs .respimg .lazyload {
   display: none;
 }
+
+.half {
+    width: 50%;
+}
+figure.right {
+    float: right;
+}
+
