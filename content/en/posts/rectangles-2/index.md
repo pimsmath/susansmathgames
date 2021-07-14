@@ -1,7 +1,7 @@
 ---
 title: Rectangles
 author: Susan Milner
-type: page
+tags: ["puzzles"]
 date: 2014-07-13T22:07:40+00:00
 featured_image: /wp-content/uploads/2014/07/Screenshot-2014-07-15-20.42.47-e1405482786674.png
 sharing_disabled:

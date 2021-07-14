@@ -1,7 +1,7 @@
 ---
 title: Computer-related
 author: Susan Milner
-#type: page
+tags: ["games"]
 date: 2014-07-28T23:54:32+00:00
 featured_image: "posts/computer-related/images/featured.jpg"
 ---

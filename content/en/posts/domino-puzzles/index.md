@@ -1,7 +1,7 @@
 ---
 title: Domino puzzles
 author: Susan Milner
-tags: ["games"]
+tags: ["puzzles"]
 date: 2014-07-20T18:06:32+00:00
 featured_image: "posts/domino-puzzles/images/domino-puzzle-1.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Arithmetic & algebra'
 author: Susan Milner
-type: page
+tags: ["games"]
 date: 2014-07-23T21:24:44+00:00
 featured_image: "/wp-content/uploads/2014/07/triangle-sum.jpg"
 ---

@@ -60,3 +60,9 @@ enableRobotsTXT = true
     pre = "<i class='fa fa-road'></i>"
     url = "/other-resources/"
     weight = -80
+  
+  [[menu.main]]
+    name = "Why Puzzles?"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/why-puzzles/"
+    weight = -80
