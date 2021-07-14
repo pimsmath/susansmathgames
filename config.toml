@@ -4,7 +4,7 @@ languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
@@ -47,22 +47,41 @@ enableRobotsTXT = true
     name = "About"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about/"
+    weight = 95
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/contact-me/"
     weight = 100
 
   [[menu.main]]
     name = "For teachers"
     pre = "<i class='fa fa-road'></i>"
     url = "/for-teachers/"
-    weight = -90
+    weight = 20
+  
+  [[menu.main]]
+    name = "Puzzles"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/tags/puzzles/"
+    weight = 40
+  
+  [[menu.main]]
+    name = "Games"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/tags/games/"
+    weight = 50
   
   [[menu.main]]
     name = "Other resources"
     pre = "<i class='fa fa-road'></i>"
     url = "/other-resources/"
-    weight = -80
+    weight = 70
   
   [[menu.main]]
     name = "Why Puzzles?"
     pre = "<i class='fa fa-road'></i>"
     url = "/why-puzzles/"
-    weight = -80
+    weight = 10

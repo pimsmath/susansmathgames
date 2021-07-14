@@ -3,7 +3,7 @@ title: 'Arithmetic & algebra'
 author: Susan Milner
 tags: ["games"]
 date: 2014-07-23T21:24:44+00:00
-featured_image: "/wp-content/uploads/2014/07/triangle-sum.jpg"
+featured_image: "/posts/arithmetic-algebra-games/images/triangle-sum.jpg"
 ---
 [15-Scratch and 24-Scratch](/wp-content/uploads/2014/07/15-24-scratch.pdf) are
 great games for almost anywhere you have a few spare minutes.  You don't
