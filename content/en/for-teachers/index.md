@@ -21,7 +21,7 @@ many classrooms, visit the Saskatchewan Mathematics Teachers’ journal, [The
 Variable](http://smts.ca/the-variable/):
 
   * In the [June 2016 issue](http://smts.ca/wp-content/uploads/2016/04/The-Variable-June-2016.pdf), I describe domino puzzles and the game of Rectangles.
-  * In the  [August 2016 issue](http://smts.ca/content/uploads/2016/04/The-Variable-2016-August.pdf), Hidato and variations on Latin squares using colour and shape are highlighted.
+  * In the  [August 2016 issue](http://smts.ca/wp-content/uploads/2016/04/The-Variable-2016-August.pdf), Hidato and variations on Latin squares using colour and shape are highlighted.
   * In the [November 2016 issue](http://smts.ca/wp-content/uploads/2016/04/The-Variable-2016-November.pdf) you will find an in-depth description of how I introduce the game of Set to students of all ages, along with several variations that have proven popular.
   * In the [March/April 2017 issue](http://smts.ca/wp-content/uploads/2017/03/The-Variable-2017-March-April.pdf), I describe the difference triangle, which is a puzzle that can easily  be used to fill a spare 10 minutes for individuals or the whole class.
   * There is a less-detailed discussion about a bigger selection of games in
